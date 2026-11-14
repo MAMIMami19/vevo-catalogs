@@ -1,0 +1,275 @@
+{
+  "id": "vevo.catalogs",
+  "version": "1.0.0",
+  "name": "Vevo Catalogs",
+  "description": "Custom Arabic genre catalogs (movies and series), built from public Cinemeta data.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "comedy",
+      "name": "كوميديا",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "comedy",
+      "name": "كوميديا",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "fantasy",
+      "name": "فانتازيا",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "fantasy",
+      "name": "فانتازيا",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "scifi",
+      "name": "خيال علمي",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "scifi",
+      "name": "خيال علمي",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "romance",
+      "name": "رومانسي",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "romance",
+      "name": "رومانسي",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "family",
+      "name": "الأطفال والعائلة",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "family",
+      "name": "الأطفال والعائلة",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "documentary",
+      "name": "وثائقيات",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "documentary",
+      "name": "وثائقيات",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "crime",
+      "name": "جريمة",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "crime",
+      "name": "جريمة",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "action",
+      "name": "أكشن",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "action",
+      "name": "أكشن",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "drama",
+      "name": "دراما",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "drama",
+      "name": "دراما",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "thriller",
+      "name": "أعمال مشوقة",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "thriller",
+      "name": "أعمال مشوقة",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "true-story",
+      "name": "واقعي",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "true-story",
+      "name": "واقعي",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "animation",
+      "name": "رسوم متحركة",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "anime",
+      "name": "أنيمي",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "new-2026",
+      "name": "الجديد والجدير بالمشاهدة",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "new-2026",
+      "name": "الجديد والجدير بالمشاهدة",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    }
+  ]
+}
